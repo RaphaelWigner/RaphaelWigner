@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Raphael!
+### 
 ![Raphael Wigner's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelWigner&show_icons=true&theme=dark)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devraphaeldevmoreira)](https://github.com/anuraghazra/github-readme-stats)
